@@ -115,7 +115,7 @@ Join us for public talks, tutorials, and panel discussions that are open to all!
 Talks marked with an asterisk (*) are not public sessions; they are open to accepted hackathon participants only.
 
 #### Week 2: July 13-17, 2026
-All sessions this week are open to accepted hackathon participants only.
+All sessions this week are open to accepted hackathon participants only. While the schedule is more open and flexible, we expect participants to dedicate about 2.5 hours per day (from 8 to 10:30 am) to developing their projects. Participants may spend additional time on their projects as desired, but this is not required. 
 
 <table class="schedule-table">
   <colgroup>
