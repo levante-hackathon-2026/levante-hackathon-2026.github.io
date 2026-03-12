@@ -92,11 +92,11 @@ Join us for public talks, tutorials, and panel discussions that are open to all!
         <div class="session-speaker"> </div>
       </td>
       <td>
-        <div class="session-title">Intro to item response theory (Tutorial)</div>
+        <div class="session-title">Intro to Item Response Theory (Tutorial)</div>
         <div class="session-speaker"><i>Ben Domingue</i></div>
       </td>
       <td>
-        <div class="session-title">Multi-group item response theory in LEVANTE (Tutorial)</div>
+        <div class="session-title">Multi-group Item Response Theory in LEVANTE (Tutorial)</div>
         <div class="session-speaker"><i>Mika Braginsky</i></div>
       </td>
       <td>
