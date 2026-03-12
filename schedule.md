@@ -9,7 +9,7 @@ permalink: /schedule/
 Schedule is tentative. All times are in Pacific Standard Time.
 
 #### Week 1: July 6-10, 2026
-Join us for public talks, tutorials, and panel discussions that are open to all! This week, the workshop meets from 8:00-10:30 am each day. Each session runs approximately 1 hour. 
+Join us for public talks, tutorials, and panel discussions that are open to all! This week, the workshop meets from 8:00-10:30 am each day. Each session runs approximately 1 hour. Two methods tutorials run concurrently on Tuesday and Wednesday afternoon and participants select one to attend.
 
 <table class="schedule-table">
   <colgroup>
@@ -51,11 +51,11 @@ Join us for public talks, tutorials, and panel discussions that are open to all!
       </td>
       <td>
         <div class="session-title">Guest Talk</div>
-        <div class="session-note"><i>TBA</i></div>
+        <div class="session-note"><i>Rogier Kievit</i></div>
       </td>
       <td>
         <div class="session-title">Guest Talk</div>
-        <div class="session-note"><i>TBA</i></div>
+        <div class="session-note"><i>Dana McCoy</i></div>
       </td>
       <td>
         <div class="session-title">LEVANTE Partner Projects (Panel)</div>
@@ -77,11 +77,11 @@ Join us for public talks, tutorials, and panel discussions that are open to all!
         <div class="session-speaker"><i>Lijin Zhang</i></div>
       </td>
       <td>
-        <div class="session-title">Social and environmental influences* (Discussion)</div>
-        <div class="session-speaker"><i>Multiple facilitators</i></div>
+        <div class="session-title">Guest Talk</div>
+        <div class="session-speaker"><i>Julián P. Mariño </i></div>
       </td>
       <td>
-        <div class="session-title">Wrap up and intro to hackathon* (Talk)</div>
+        <div class="session-title">Data Science Tools and Intro to Hackathon (Talk) </div>
         <div class="session-speaker"><i>LEVANTE Team</i></div>
       </td>
     </tr>
@@ -112,10 +112,8 @@ Join us for public talks, tutorials, and panel discussions that are open to all!
   </tbody>
 </table>
 
-Talks marked with an asterisk (*) are not public sessions; they are open to accepted hackathon participants only.
-
 #### Week 2: July 13-17, 2026
-All sessions this week are open to accepted hackathon participants only. While the schedule is more open and flexible, we expect participants to dedicate about 2.5 hours per day (from 8 to 10:30 am) to developing their projects. Participants may spend additional time on their projects as desired, but this is not required. 
+All sessions this week are open to accepted hackathon participants only. While the schedule is more open and flexible, we expect participants to dedicate about 2.5 hours per day (from 8 to 10:30 am) to their projects. Participants may spend additional time on their projects as desired, but this is not required. 
 
 <table class="schedule-table">
   <colgroup>
