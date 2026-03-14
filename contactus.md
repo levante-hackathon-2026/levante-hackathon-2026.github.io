@@ -4,6 +4,8 @@ title: FAQ for Applicants
 permalink: /applicant-FAQ/
 ---
 
+### Frequently Asked Questions for Applicants
+
 #### I'm not an early career trainee. Should I attend or apply?
 All are welcome to attend the public talks on the education track during the first week. Some of these are methods tutorials, so the relevance and usefulness of those sessions will vary depending on your background in statistics and R. Later in the spring, we'll update the schedule to include information on helpful pre-requisites for each session.
 
