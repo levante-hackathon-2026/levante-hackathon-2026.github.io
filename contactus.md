@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ & Contact Us
-permalink: /contactus/
+permalink: /faq-contactus/
 ---
 
 ### FAQ & Contact Us
