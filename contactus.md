@@ -14,5 +14,5 @@ The first week of talks and tutorials are public, and you are welcome to watch/p
 
 For the second week, hackathon applications are evaluated per individual. We hope to facilitate new collaborations, so hackathon project ideas are pitched to the full group and open to others to join (most project groups will be virtual/hybrid). If you have a specific project idea with a _closed_ team that you want to work with, that project may not be a good fit for this event. 
 
-##### How can I reach you if I have a different question?
+#### How can I reach you if I have a different question?
 Please email <levantehackathon@gmail.com>.
