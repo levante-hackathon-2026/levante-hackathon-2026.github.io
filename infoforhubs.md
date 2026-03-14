@@ -6,8 +6,6 @@ permalink: /hub-FAQ/
 
 ### Frequently Asked Questions for Hubs
 
-Thank you for considering hosting a LEVANTE Hackathon 2026 Hub!
-
 #### What are hubs?
 While the the hackathon is virtual, hubs are groups of people meeting in-person across different parts of the world to participate. Hubs are mostly run independently by local leaders and may vary in length and activities. 
 
@@ -33,6 +31,4 @@ We expect official hubs to allow accepted hackathon participants to attend a hub
 Social events such as a coffee/tea time or meals are encouraged and can be arranged independently by hosts or attendees. 
 
 **Can you help me with advertisement materials?**  
-Yes, we have a flyer template and hubs are welcome to translate or modify the flyer as needed. If you are a hub, please reach out to levantehackathon@gmail.com for a copy of the materials (pictured below).
-
-<img src="assets/img/hackathon_flyer.jpg" alt="example levante hackathon flyer" width="300"/>
+Yes, we have a flyer template and hubs are welcome to translate or modify the flyer as needed. If you are a hub, please reach out to levantehackathon@gmail.com if you would like a copy.
