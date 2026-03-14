@@ -1,7 +1,7 @@
 ---
 layout: page
-title: FAQ & Contact Us
-permalink: /faq-contactus/
+title: FAQ for Applicants
+permalink: /applicant-FAQ/
 ---
 
 #### I'm not an early career trainee. Should I attend or apply?
