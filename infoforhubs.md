@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQ for Hubs
-permalink: /hub_FAQ/
+permalink: /hub-FAQ/
 ---
 
 ### FAQ for Hubs
