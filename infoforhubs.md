@@ -30,5 +30,5 @@ We expect official hubs to allow accepted hackathon participants to attend a hub
 #### I want to help attendees get to know each other. Should I plan any additional events?
 Social events such as a coffee/tea time or meals are encouraged and can be arranged independently by hosts or attendees. 
 
-**Can you help me with advertisement materials?**  
+#### Can you help me with advertisement materials?
 Yes, we have a flyer template and hubs are welcome to translate or modify the flyer as needed. If you are a hub, please reach out to levantehackathon@gmail.com if you would like a copy.
