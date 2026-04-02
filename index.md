@@ -7,7 +7,6 @@ title:
 layout: home
 ---
 
-### [Applications](https://levante-hackathon-2026.github.io/application/) now open! *Deadline: March 31, 2026*  
 ![](assets/img/padded_Levante-Logo-Initiative-Strapline-Colour-RGB.svg)
 Join us for **LEVANTE Hackathon 2026**, a two-week virtual event designed to help researchers learn and use LEVANTE data on children’s learning across the globe. Through talks, tutorials, and hands-on projects, participants will learn approaches for using LEVANTE’s global data in open, responsible, and rigorous ways.
 
@@ -20,7 +19,7 @@ The [Learning Variability Network Exchange (LEVANTE)](https://levante-network.or
 Join us for talks, tutorials, and panel discussions, open to all!  
 
 **Week 2: July 13-17**
-Selected hackathon participants will pitch, create, and present LEVANTE-related projects. *Note: Hackathon participants are expected to attend the full two-week program.*
+Selected hackathon participants will pitch, create, and present LEVANTE-related projects. *Note: Hackathon participants are expected to attend the full two-week program.* Applications closed on March 31st.
 
 #### 🌍 Logistics
 All sessions are virtual, running between 8:00-10:30 am Pacific Time.
