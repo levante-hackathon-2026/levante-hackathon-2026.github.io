@@ -112,6 +112,21 @@ Join us for public talks, tutorials, and panel discussions that are open to all!
   </tbody>
 </table>
 
+##### GUIDANCE ON SELECTING BETWEEN CONCURRENT TUTORIALS  
+Some sessions will run concurrently, but you may only register for one at each time slot. Sessions will be recorded and shared. Some info to consider:
+
+**There are two tracks.** However, you can mix and match between the tracks depending on your interest and ability levels.  
+- Structural equation modeling track: May be most useful for attendees interested in analyses with already-scored tasks and/or surveys.
+- Item response theory track: May be most useful for attendees interested in trial or item-level analyses of the tasks.
+  
+**The introductory tutorials on Tuesday, July 7th, will be widely accessible.**
+- Intro to Structural Equation Modeling (Tues, July 7, 9:15 am Pacific): No pre-requisites specified by the instructor.
+- Intro to Item Response Theory (Tues, July 7, 9:15 am Pacific): Attendees will get the most out of this tutorial if they have some background knowledge of logistic regression. This tutorial will draw from the article “Psychometric Rigor for the Real World: Item Banking in Developmental Research” [[PDF]](assets/pdf/papers/intro_to_IRT_manuscript.pdf). 
+
+**The intermediate tutorials on Wednesday, July 8th will be more specialized.**
+- Multi-group Item Response Theory in LEVANTE (Wed, July 8, 9:15 am Pacific): Attendees will get the most out of this tutorial if they a) have attended the prior day’s Intro to IRT tutorial (or have equivalent introductory IRT experience), and b) have some familiarity with R/RStudio & data analysis.
+- Structural Equation Modeling in LEVANTE (Wed, July 8, 9:15 am Pacific): Attendees will get the most out of this tutorial if they a) have attended the prior day’s Intro to SEM tutorial (or have equivalent introductory SEM experience), and b) have some familiarity with R/RStudio & data analysis.
+
 #### Week 2: July 13-17, 2026
 All sessions this week are open to accepted hackathon participants only. While the schedule is more open and flexible, we expect participants to dedicate about 2.5 hours per day (from 8 to 10:30 am) to their projects. Participants may spend additional time on their projects as desired, but this is not required. 
 
