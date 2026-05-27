@@ -40,7 +40,8 @@ header_pages:
 # - organizers.md
 # - callforpapers.md
 - schedule.md
-- application.md
+# - application.md
+- resources.md
 # - papers.md
 - contactus.md
 - infoforhubs.md
