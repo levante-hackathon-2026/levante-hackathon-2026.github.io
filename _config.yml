@@ -44,7 +44,7 @@ header_pages:
 # - application.md
 - resources.md
 # - papers.md
-- contactus.md
+# - contactus.md 
 - infoforhubs.md
 
 # # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
