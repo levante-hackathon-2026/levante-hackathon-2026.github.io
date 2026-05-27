@@ -127,6 +127,8 @@ Some sessions will run concurrently, but you may only register for one at each t
 - Multi-group Item Response Theory in LEVANTE (Wed, July 8, 9:15 am Pacific): Attendees will get the most out of this tutorial if they a) have attended the prior day’s Intro to IRT tutorial (or have equivalent introductory IRT experience), and b) have some familiarity with R/RStudio & data analysis.
 - Structural Equation Modeling in LEVANTE (Wed, July 8, 9:15 am Pacific): Attendees will get the most out of this tutorial if they a) have attended the prior day’s Intro to SEM tutorial (or have equivalent introductory SEM experience), and b) have some familiarity with R/RStudio & data analysis.
 
+For some resources for getting started with R/Rstudio, see [Resources](https://levante-hackathon-2026.github.io/resources).
+
 #### Week 2: July 13-17, 2026
 All sessions this week are open to accepted hackathon participants only. While the schedule is more open and flexible, we expect participants to dedicate about 2.5 hours per day (from 8 to 10:30 am) to their projects. Participants may spend additional time on their projects as desired, but this is not required. 
 
