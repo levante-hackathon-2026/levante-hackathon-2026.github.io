@@ -32,11 +32,12 @@ Listed alphabetically by first name. Most speakers are LEVANTE team members at S
       <p class="speaker-institution">{{ s.institution }}</p>
     </article>
   {% endfor %}
-</div>
+</div>   
+
 
 #### Additional LEVANTE Staff
 Members of the LEVANTE team also supporting the hackathon, listed alphabetically by first name.
-
+Staff count: {{ site.staff | size }}
 <div class="speakers-grid">
   {% for s in site.staff %}
     <article class="speaker-card">
