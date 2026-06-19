@@ -65,6 +65,8 @@ last_updated: true
 collections:
   speakers:
     output: true
+  staff:
+    output: true
   organizers:
     output: true
   schedule:
