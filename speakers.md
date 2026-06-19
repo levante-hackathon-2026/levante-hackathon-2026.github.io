@@ -34,6 +34,37 @@ Listed alphabetically by first name. Most speakers are LEVANTE team members at S
   {% endfor %}
 </div>
 
+#### Additional LEVANTE Staff
+Members of the LEVANTE team also supporting the hackathon, listed alphabetically by first name.
+
+<div class="speakers-grid">
+  {% for s in site.staff %}
+    <article class="speaker-card">
+      <!-- Image (optional: linking the image to website too) -->
+      {% if s.website %}
+        <a href="{{ s.website }}" target="_blank" rel="noopener noreferrer">
+          <img src="{{ s.photo | relative_url }}" alt="Photo of {{ s.name }}" class="speaker-photo" />
+        </a>
+      {% else %}
+        <img src="{{ s.photo | relative_url }}" alt="Photo of {{ s.name }}" class="speaker-photo" />
+      {% endif %}
+
+      <!-- Name linking to external site (opens in new tab) -->
+      <h2 class="speaker-name">
+        {% if s.website %}
+          <a href="{{ s.website }}" target="_blank" rel="noopener noreferrer">{{ s.name }}</a>
+        {% else %}
+          {{ s.name }}
+        {% endif %}
+      </h2>
+
+      <p class="speaker-title">{{ s.title }}</p>
+      <p class="speaker-institution">{{ s.institution }}</p>
+    </article>
+  {% endfor %}
+</div>
+
+
 <style>
 /* simple styles you can paste into your main CSS instead */
 .speakers-grid{
