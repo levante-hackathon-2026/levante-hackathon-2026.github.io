@@ -8,9 +8,7 @@ permalink: /data-access/
 
 Tutorials will use real LEVANTE data. We encourage you to follow along with tutorials actively by running code line by line and solving any problems the instructors pose. 
 
-The material below is to help you access the data and code for the hackathon tutorials. 
-
-This information will be covered during the “Accessing and using the LEVANTE data” tutorial of the hackathon (Monday, 9:15 am Pacific Time).
+The material below is to help you access the data and code for the hackathon tutorials. This information will be covered during the “Accessing and using the LEVANTE data” tutorial of the hackathon (Monday, 9:15 am Pacific Time). 
 
 If you cannot attend the “Accessing and using the LEVANTE data” session, please follow the instructions below to set up data access _before_ your first tutorial session if you would like to follow along.
 
