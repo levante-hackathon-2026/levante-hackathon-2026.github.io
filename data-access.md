@@ -12,8 +12,6 @@ The material below is to help you access the data and code for the hackathon tut
 
 If you cannot attend the “Accessing and using the LEVANTE data” session, please follow the instructions below to set up data access _before_ your first tutorial session if you would like to follow along.
 
-**The PositCloud link and GitHub repo will be made available to registered attendees at the start of the event.** 
-
 #### Completing data access requirements on Redivis
 
 Permission to access the data is granted via [Redivis](https://redivis.com/), a data-sharing platform used for all LEVANTE datasets. Accessing any LEVANTE data requires users to make an account, join the LEVANTE organization, and e-sign a Data Use Agreement, all through the Redivis platform.
@@ -22,6 +20,8 @@ For step-by-step guidelines, visit our Researcher Site [Data Access](https://res
 
 #### Accessing the tutorial code
 There are several ways to access the tutorial code.
+
+**The PositCloud link and GitHub repo will be made available to registered attendees at the start of the event.** 
 
 ##### PositCloud
 [PositCloud](https://posit.cloud/) is a great option if you want to follow along easily, but don’t have R/RStudio and git/GitHub already set up on your computer (see below).
