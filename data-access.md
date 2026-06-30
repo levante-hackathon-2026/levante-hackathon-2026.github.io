@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Data Access
-permalink: /data-access/
+title: Tutorial Access
+permalink: /tutorial-access/
 ---
 
 ### Data Access
