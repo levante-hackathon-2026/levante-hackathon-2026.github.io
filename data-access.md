@@ -4,7 +4,7 @@ title: Tutorial Access
 permalink: /tutorial-access/
 ---
 
-### Data Access
+### Tutorial Access
 
 Tutorials will use real LEVANTE data. We encourage you to follow along with tutorials actively by running code line by line and solving any problems the instructors pose. 
 
