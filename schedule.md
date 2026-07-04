@@ -120,7 +120,7 @@ Some sessions will run concurrently, but you may only register for one at each t
 - Item response theory track: May be most useful for attendees interested in trial or item-level analyses of the tasks.
   
 **The introductory tutorials on Tuesday, July 7th, will be widely accessible.**
-- Intro to Structural Equation Modeling (9:15 am Pacific): No pre-requisites specified by the instructor.
+- Intro to Structural Equation Modeling (9:15 am Pacific): Some knowledge of R is helpful but not required.
 - Intro to Item Response Theory (9:15 am Pacific): Attendees will get the most out of this tutorial if they have some background knowledge of logistic regression. This tutorial will draw from the article “Psychometric Rigor for the Real World: Item Banking in Developmental Research” [[PDF]](https://levante-hackathon-2026.github.io/assets/pdf/papers/intro_to_IRT_manuscript.pdf).
 
 **The intermediate tutorials on Wednesday, July 8th will be more specialized.**
