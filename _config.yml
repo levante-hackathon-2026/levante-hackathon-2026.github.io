@@ -42,11 +42,12 @@ header_pages:
 - schedule.md
 - register.md
 # - application.md
+- info-for-participants.md
 - data-access.md
 - resources.md
 # - papers.md
 # - contactus.md 
-- infoforhubs.md
+# - infoforhubs.md
 
 # # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
 # masthead: assets/img/banner.jpg
