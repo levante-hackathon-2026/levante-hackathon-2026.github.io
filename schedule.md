@@ -93,7 +93,7 @@ Join us for public talks, tutorials, and panel discussions that are open to all!
       </td>
       <td>
         <div class="session-title">Data Science Tools and Intro to Hackathon (Closed session) </div>
-         <div class="session-title"> <a> slides and recording not available</a>
+         <div class="session-title"> <a> slides and recording not available</a> </div>
         <div class="session-speaker"><i>Theresa Cheng</i></div>
       </td>
     </tr>
