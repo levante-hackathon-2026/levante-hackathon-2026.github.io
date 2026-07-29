@@ -6,7 +6,7 @@ permalink: /schedule/
 <link rel="stylesheet" href="{{ '/assets/css/schedule.css' | relative_url }}">
 
 ### Schedule & Recordings
-**Slides and recordings have now been added!**
+***Slides and recordings have now been added!** Note that materials from LEVANTE are covered under a [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). Please see the posted slides and [curriculum repository](https://github.com/levante-hackathon-2026/public_curriculum) for additional licensing information from specific instructors.*
 
 Schedule is tentative. All times are in Pacific Standard Time.
 
