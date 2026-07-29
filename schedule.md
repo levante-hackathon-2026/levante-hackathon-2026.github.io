@@ -55,7 +55,7 @@ Join us for public talks, tutorials, and panel discussions that are open to all!
       </td>
       <td>
         <div class="session-title">LEVANTE Partner Projects (Panel)</div>
-        <div class="session-title"> <a href="https://drive.google.com/file/d/1Zunc6zImppXMriPJ20-9mXK7KY3iBneM/view?usp=drive_link">slides</a>, <span>not recorded</span></div>
+        <div class="session-title"> <a href="https://drive.google.com/file/d/1Zunc6zImppXMriPJ20-9mXK7KY3iBneM/view?usp=drive_link">slides</a>, not recorded</div>
         <div class="session-note"><i>TBA</i></div>
       </td>
     </tr>
@@ -83,7 +83,7 @@ Join us for public talks, tutorials, and panel discussions that are open to all!
       </td>
       <td>
         <div class="session-title">Data Science Tools and Intro to Hackathon (Closed session) </div>
-        <div class="session-title"> <span> slides and recording not available</span> </div>
+        <div class="session-title"> slides and recording not available </div>
         <div class="session-speaker"><i>Theresa Cheng</i></div>
       </td>
     </tr>
