@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Schedule
+title: Schedule & Recordings
 permalink: /schedule/
 ---
 <link rel="stylesheet" href="{{ '/assets/css/schedule.css' | relative_url }}">
