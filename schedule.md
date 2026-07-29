@@ -126,6 +126,7 @@ Join us for public talks, tutorials, and panel discussions that are open to all!
   </tbody>
 </table>
 
+
 ##### Guidance on selecting between concurrent tutorials
 Some sessions will run concurrently, but you may only register for one at each time slot. Sessions will be recorded and shared. Some info to consider:
 
