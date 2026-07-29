@@ -144,6 +144,8 @@ Some sessions will run concurrently, but you may only register for one at each t
 For some resources for getting started with R/Rstudio, see [Resources](https://levante-hackathon-2026.github.io/resources).
 
 #### Week 2: July 13-17, 2026
+Slides and recordings from this week's sessions are not available. 
+
 All sessions this week are open to accepted hackathon participants only. While the schedule is more open and flexible, we expect participants to dedicate about 2.5 hours per day (from 8 to 10:30 am) to their projects. Participants may spend additional time on their projects as desired, but this is not required. 
 
 <table class="schedule-table">
